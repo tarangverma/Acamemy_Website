@@ -2,7 +2,7 @@ import React from 'react'
 
 function Screen() {
   return (
-    <div className="flex items-center text-[#ffffff] pt-[20vh] flex-col bg-[url('public/assets/bg.png')] w-full bg-no-repeat bg-cover h-[80vh]">
+    <div className="flex items-center text-[#ffffff] pt-[20vh] flex-col bg-[url('/assets/bg.png')] w-full bg-no-repeat bg-cover h-[80vh]">
         <div className=' border-b-2'>
             <h1 className='text-[20px]'>Intract</h1>
             <h1 className='text-[50px]'>Academy</h1>
